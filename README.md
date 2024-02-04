@@ -21,8 +21,10 @@ Kutuma dokunma oyunu oyunculara arkadaşlarıyla birlikte eğlence sunan bir mul
 
 
   
-## Ekran Görüntüleri
-https://youtu.be/afzgOadwJbs
+## oyun videoları
+Oyuna ait videolar aşağıda yer almaktadır.
+- https://youtu.be/afzgOadwJbs
+- https://youtu.be/Q0-NRaqZO6A
 
 
 
