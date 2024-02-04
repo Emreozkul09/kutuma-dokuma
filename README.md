@@ -22,6 +22,7 @@ Kutuma dokunma oyunu oyunculara arkadaşlarıyla birlikte eğlence sunan bir mul
 
   
 ## Ekran Görüntüleri
+https://youtu.be/afzgOadwJbs
 
 
 
