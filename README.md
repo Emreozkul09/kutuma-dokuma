@@ -23,7 +23,6 @@ Kutuma dokunma oyunu oyunculara arkadaşlarıyla birlikte eğlence sunan bir mul
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://github.com/Emreozkul09/kutuma-dokuma/blob/main/oyuncu1.mp4)
-![Uygulama Ekran Görüntüsü](https://github.com/Emreozkul09/kutuma-dokuma/blob/main/oyuncu2.mp4)
+
 
   
